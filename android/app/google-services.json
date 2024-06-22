@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721100205456",
+    "project_id": "crudtutorial-2c497",
+    "storage_bucket": "crudtutorial-2c497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721100205456:android:9e8401eef8750550be5715",
+        "android_client_info": {
+          "package_name": "com.example.crudtutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd37l-Q-poVEsDOgpW510nOuCqXoScG74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
